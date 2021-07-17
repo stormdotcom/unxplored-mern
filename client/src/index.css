@@ -1,0 +1,14 @@
+
+body {
+    background-color: #EEEEEE
+}
+label  {
+    color: #EEEEEE
+}
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
+a {
+    text-decoration: none !important;
+}
