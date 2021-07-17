@@ -1,4 +1,4 @@
-# Unxplored
+# Un-Xplored
 
 ![Un-Xplored](https://i.ibb.co/n1XWR44/sspc.jpg)
 
