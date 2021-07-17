@@ -1,6 +1,6 @@
 # Unxplored
 
-![Un-Xplored](https://ajmal-n.imgbb.com/sspc.jpg)
+![Un-Xplored](https://i.ibb.co/n1XWR44/sspc.jpg)
 
 ## What this app for
 
