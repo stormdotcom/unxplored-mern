@@ -1,6 +1,6 @@
 # Memories
 
-![Un-Xplored](https://ibb.co/qr5tw3n)
+![Un-Xplored](https://ajmal-n.imgbb.com/sspc.jpg)
 
 ## What this app
 
