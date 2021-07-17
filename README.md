@@ -4,7 +4,7 @@
 
 ## What this app for
 
-Using React, Node.js, Express & MongoDB app called "UNXPLORED it is a simple social media app that allows users to post interesting places that user seen, but other never seen.
+Using React, Node.js, Express & MongoDB app called "UNXPLORED it is a simple social media app that allows users to post interesting places that user saw, but others never seen before.
 
 
 
